@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryUpdater.Client", "DirectoryUpdater.Client\DirectoryUpdater.Client.csproj", "{8EFD5E14-10DB-4A2E-AF9B-9FCB26303F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryUpdater.ServerService", "DirectoryUpdater.ServerService\DirectoryUpdater.ServerService.csproj", "{6F6099D2-CEFD-4931-85E5-198FEFD8099E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFD5E14-10DB-4A2E-AF9B-9FCB26303F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFD5E14-10DB-4A2E-AF9B-9FCB26303F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFD5E14-10DB-4A2E-AF9B-9FCB26303F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFD5E14-10DB-4A2E-AF9B-9FCB26303F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6099D2-CEFD-4931-85E5-198FEFD8099E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6099D2-CEFD-4931-85E5-198FEFD8099E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6099D2-CEFD-4931-85E5-198FEFD8099E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6099D2-CEFD-4931-85E5-198FEFD8099E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "BaseDirectory": "C:\\path\\to\\your\\directory",
+  "Port": 8080,
+  "RateLimitMilliseconds": 500,
+  "ExcludedPaths": [
+    "C:\\path\\to\\your\\directory\\exclude1",
+    "C:\\path\\to\\your\\directory\\exclude2\\subfolder",
+    "C:\\path\\to\\your\\directory\\exclude3"
+  ]
+}
